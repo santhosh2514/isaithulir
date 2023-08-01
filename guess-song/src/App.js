@@ -77,7 +77,7 @@ export default function App() {
     Accept: "application/json",
     "Content-Type": "application/json",
     Authorization:
-      "Bearer BQCHqbGTk_ZD8g8FeP1Qh98zebnm0_yn0lW7o6j9t3DX7wzJbwJFi9FdClsvUX8NffqcqzNgkadtIbR5f0A9Uxd70t7rGkPXx7cgiw45Mhokh33FcWFMxN9qKUWjWYO1kGdlBJk9kRkaFmQ8p_Chj0R0TnzxcX38wjRu1DtnD-mJQ4xqCb6giEOAWc07Vmrrdp2XEaNzucODmWjVQ",
+      "Bearer placeholder",
   };
   const handleChange = (e) => {
     const query = e.target.value.toLowerCase();
